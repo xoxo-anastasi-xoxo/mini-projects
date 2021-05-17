@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/mini-projects/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/mini-projects/static/js/main.69fbc446.chunk.js",
-    "main.js.map": "/mini-projects/static/js/main.69fbc446.chunk.js.map",
+    "main.js": "/mini-projects/static/js/main.de6510cd.chunk.js",
+    "main.js.map": "/mini-projects/static/js/main.de6510cd.chunk.js.map",
     "runtime-main.js": "/mini-projects/static/js/runtime-main.e57354c1.js",
     "runtime-main.js.map": "/mini-projects/static/js/runtime-main.e57354c1.js.map",
-    "static/js/2.1d728296.chunk.js": "/mini-projects/static/js/2.1d728296.chunk.js",
-    "static/js/2.1d728296.chunk.js.map": "/mini-projects/static/js/2.1d728296.chunk.js.map",
+    "static/js/2.d9b5953e.chunk.js": "/mini-projects/static/js/2.d9b5953e.chunk.js",
+    "static/js/2.d9b5953e.chunk.js.map": "/mini-projects/static/js/2.d9b5953e.chunk.js.map",
     "index.html": "/mini-projects/index.html",
     "static/css/main.9d5b29c0.chunk.css.map": "/mini-projects/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.1d728296.chunk.js.LICENSE.txt": "/mini-projects/static/js/2.1d728296.chunk.js.LICENSE.txt"
+    "static/js/2.d9b5953e.chunk.js.LICENSE.txt": "/mini-projects/static/js/2.d9b5953e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e57354c1.js",
-    "static/js/2.1d728296.chunk.js",
+    "static/js/2.d9b5953e.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.69fbc446.chunk.js"
+    "static/js/main.de6510cd.chunk.js"
   ]
 }
